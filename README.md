@@ -1,2 +1,2 @@
 # renome
-this is my atemt at renome
+this is my atempt at renome
